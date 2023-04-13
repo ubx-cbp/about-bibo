@@ -90,7 +90,7 @@ nav_order: 1
           <td id="table-title"><b>Hotline</b></td>
         </tr>
         <tr>
-          <td style="color:#2B2D3280">(02) 8706-0277 / 8671-1220</td>
+          <td style="color:#2B2D3280">(02) 8671-1220</td>
         </tr>
       </table>
     </td>
@@ -150,7 +150,7 @@ nav_order: 1
           <td id="table-title"><b>FB Messenger</b></td>
         </tr>
         <tr>
-          <td style="color:#2B2D3280">https://www.facebook.com/empoweredconsumerismAim/t</td>
+          <td style="color:#2B2D3280">https://www.facebook.com/empoweredconsumerismofficialpage</td>
         </tr>
       </table>
     </td>
