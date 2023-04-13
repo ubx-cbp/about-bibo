@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PHLPOST CONTACT US
+title: BIBO CONTACT US
 nav_order: 1
 ---
 
@@ -69,7 +69,7 @@ nav_order: 1
         </tr>
         <tr>
           <td style="color:#2B2D3280;">
-            Magallanes Drive, Liwasang Bonifacio Brgy. 659-A, Ermita 1000 Manila
+            Unit 301 3th Floor Corner Sapphire Street & Garnet Street, 1605 ADB Ave, Ortigas Center, Pasig, 1605 Metro Manila
           </td>
         </tr>
       </table>
@@ -90,7 +90,7 @@ nav_order: 1
           <td id="table-title"><b>Hotline</b></td>
         </tr>
         <tr>
-          <td style="color:#2B2D3280">(02) - 8527 0111 / 8527 0107</td>
+          <td style="color:#2B2D3280">(02) 8706-0277 / 8671-1220</td>
         </tr>
       </table>
     </td>
@@ -110,7 +110,7 @@ nav_order: 1
           <td id="table-title"><b>Email</b></td>
         </tr>
         <tr>
-          <td style="color:#2B2D3280">phlpostcares@phlpost.gov.ph</td>
+          <td style="color:#2B2D3280">cares@empoweredconsumerism.com</td>
         </tr>
       </table>
     </td>
@@ -130,7 +130,7 @@ nav_order: 1
           <td id="table-title"><b>Website</b></td>
         </tr>
         <tr>
-          <td style="color:#2B2D3280">www.phlpost.gov.ph</td>
+          <td style="color:#2B2D3280">https://www.allianceinmotion.com</td>
         </tr>
       </table>
     </td>
@@ -150,7 +150,7 @@ nav_order: 1
           <td id="table-title"><b>FB Messenger</b></td>
         </tr>
         <tr>
-          <td style="color:#2B2D3280">m.me/PHLPost</td>
+          <td style="color:#2B2D3280">https://www.facebook.com/empoweredconsumerismAim/t</td>
         </tr>
       </table>
     </td>
@@ -170,7 +170,7 @@ nav_order: 1
           <td id="table-title"><b>Twitter</b></td>
         </tr>
         <tr>
-          <td style="color:#2B2D3280">@postofficeph</td>
+          <td style="color:#2B2D3280">https://twitter.com/ec_dailyupdate</td>
         </tr>
       </table>
     </td>

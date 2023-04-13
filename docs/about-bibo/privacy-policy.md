@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PHLPOST APP PRIVACY POLICY
+title: BIBO APP PRIVACY POLICY
 nav_order: 2
 ---
 
@@ -10,13 +10,13 @@ nav_order: 2
     }
 </style>
 
-# **PHLPost App Data Privacy Notice**
+# **BIBO App Data Privacy Notice**
 
 <p align="center">Last Revised: September 19,2022</p>
 
 <br/>
 
-‎ ‎ ‎ ‎ Philpost and the Consortium of GRP Mobile Solutions Ins. and Expresspay Inc. are committed to protecting the Personal Data we collect, use, process and disclose through the use of the Philpost App, as well as other products and services availed therein.
+‎ ‎ ‎ ‎ BIBO and the Consortium of Alliance Global are committed to protecting the Personal Data we collect, use, process and disclose through the use of the BIBO App, as well as other products and services availed therein.
 
 ‎ ‎ ‎ ‎ We respect your right to know how we collect, use and protect your Personal Information. That’s why we are giving this notice to inform you on how we process your Personal Information. By using the mobile application, you agree to the terms of this privacy policy stated below. We encourage you to review the following carefully so that you understand our privacy practices.
 
@@ -38,7 +38,7 @@ nav_order: 2
 
 ‎ ‎ ‎ ‎ D. Our third party card processing partners, through their respective portals will also collected a user’s Card Number, Expiration date &security code to be able to facilitate payment of service requested.
 
-‎ ‎ ‎ ‎ E. Personal Data may be collected when you provide it to us through the usage of the PhilPost App. For example, we collect your Personal Data through filled out forms which can either be printed or online or data input thru mobile applications, messages you enter when you use our in-app communication features or when you interact with us or our partners through the PostOffice App.
+‎ ‎ ‎ ‎ E. Personal Data may be collected when you provide it to us through the usage of the BIBO App. For example, we collect your Personal Data through filled out forms which can either be printed or online or data input thru mobile applications, messages you enter when you use our in-app communication features or when you interact with us or our partners through the PostOffice App.
 
 ‎ ‎ ‎ ‎ F. We also collect your Personal Data to facilitate your transaction needs and avail of our products and services, among others:
 

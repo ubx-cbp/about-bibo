@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PHLPOST APP FAQ (English)
+title: BIBO APP FAQ (English)
 nav_order: 4
 ---
 
@@ -10,48 +10,48 @@ nav_order: 4
     }
 </style>
 
-# **About PHLPost App**
+# **About BIBO App**
 <br/>
 
-## **What is PHLPOST App?**
-The PHLPOST App is  a virtual wallet that allows you to track your parcels, pay bills, send money, and more using your smartphone or tablet – anytime, anywhere!
+## **What is BIBO App?**
+The BIBO App is  a virtual wallet that allows you to track your parcels, pay bills, send money, and more using your smartphone or tablet – anytime, anywhere!
 
 <br/>
 
-## **What can I do with PHLPOST App?**
+## **What can I do with BIBO App?**
 We are continuously developing new product features for you but as of the current version you can do the following:
 
 - View and top-up your wallet balance
 - Track and trace your parcels from anywhere in the world
 - Transfer funds to all major local banks
-- Send money to another PHLPOST account 
+- Send money to another BIBO account 
 - Pay bills (for electric, water, phone, credit card, etc.)
 
 Local transfers to other banks are limited to PhP only.
 
 <br/>
 
-## **Is PHLPOST App available 24/7?**
-Yes, you may access the PHLPOST app 24/7
+## **Is BIBO App available 24/7?**
+Yes, you may access the BIBO app 24/7
 
 <br/>
 
-## **Who can sign up for the PHLPOST App?**
-Any Philippine mobile number can register.  The PHLPOST App is free to use and open to all networks.
+## **Who can sign up for the BIBO App?**
+Any Philippine mobile number can register.  The BIBO App is free to use and open to all networks.
 
 <br/>
 
 # **Registration**
 <br/>
 
-## **How do I sign up to the PHLPOST App?**
-Any Philippine mobile number can register.  The PHLPOST App is free to use and open to all networks.
+## **How do I sign up to the BIBO App?**
+Any Philippine mobile number can register.  The BIBO App is free to use and open to all networks.
 
-### **Register via the PHLPOST App**
+### **Register via the BIBO App**
 
-1. Go to the Playstore/App Store and search for the PHLPOST App.
-2. Download and install PHLPOST.
-3. Launch the PHLPOST app and Click the Create an Account button.
+1. Go to the Playstore/App Store and search for the BIBO App.
+2. Download and install BIBO.
+3. Launch the BIBO app and Click the Create an Account button.
 4. Enter your Mobile number.
 5. Nominate a password.
 
@@ -73,10 +73,10 @@ Any Philippine mobile number can register.  The PHLPOST App is free to use and o
 <br/>
 
 ## **Benefits of Verification**
-Upon completion of the verification/eKYC process, PHLPOST App user can now start to avail of the various services offered by the app:
+Upon completion of the verification/eKYC process, BIBO App user can now start to avail of the various services offered by the app:
 
 * Secure transfers nationwide to member banks of Instapay and PesoNet
-* Send money to another PHLPOST account
+* Send money to another BIBO account
 * Pay bills (for electric, water, phone, credit card, etc.)
 
 <br/>
@@ -86,8 +86,8 @@ Upon completion of the verification/eKYC process, PHLPOST App user can now start
 2. Prepare the Valid ID you want to scan.
 3. Press the Continue button.
 4. Select the type of ID you are going to upload.
-5. Allow the PHLPost app to take pictures and record video.
-6. Allow the PHLPost app to record audio.
+5. Allow the BIBO app to take pictures and record video.
+6. Allow the BIBO app to record audio.
 7. Take a photo of your Valid ID.
 8. Get ready to scan your face.
 9. Press the Scan Face button.
@@ -104,7 +104,7 @@ Upon completion of the verification/eKYC process, PHLPOST App user can now start
 <br/>
 
 # **Track and Trace**
-As a PHLPOST App User you can now Track and Trace your international and domestic mails, parcels, and e-packets thru the App.
+As a BIBO App User you can now Track and Trace your international and domestic mails, parcels, and e-packets thru the App.
 
 <br/>
 
@@ -181,7 +181,7 @@ You may transfer funds to any major local banks. Transfers to other banks in the
 
 ## **Is there a limit to the amount I can transfer?**
 The default transfer limits are as follows:
-- Transfer to Another PHLPOST Account - Php 100,000
+- Transfer to Another BIBO Account - Php 100,000
 - Transfer to Other Banks - Php 100,000
 - Bills Payment - Php 100,000
 
@@ -210,8 +210,8 @@ The beneficiary shall receive the amount in full and not be charged for any inco
 # **Bills Payment**
 <br/>
 
-## **What bills can I pay with the PHLPOST app?**
-Here are the Biller Categories you can pay through the PHLPOST App
+## **What bills can I pay with the BIBO app?**
+Here are the Biller Categories you can pay through the BIBO App
 
 <ul style="margin-top:0px; margin-bottom: 0px; margin-left: -15px;">
 <li>Electric Utilities</li>
@@ -236,18 +236,18 @@ Yes, you may pay yours or someone else’s bills regularly or just one time as n
 <br/>
 
 ## **When is my payment credited?**
-Payments done through the PHLPOST App are credited to the biller real-time. However, the biller or merchant may take a few days to reflect the payments made to their systems.
+Payments done through the BIBO App are credited to the biller real-time. However, the biller or merchant may take a few days to reflect the payments made to their systems.
 
 <br/>
 
 # **Security / Settings**
 <br/>
 
-## **How secure is the PHLPOST App?**
-The PHLPOST App has employed the following security features to ensure reliable and safe virtual wallet transactions.
+## **How secure is the BIBO App?**
+The BIBO App has employed the following security features to ensure reliable and safe virtual wallet transactions.
 
 <ul style="margin-top:0px; margin-bottom: 0px; margin-left: -15px;">
-<li>The PHLPOST app automatically logs out the user for 3 minutes of inactivity.</li>
+<li>The BIBO app automatically logs out the user for 3 minutes of inactivity.</li>
 <li>OTP is required for all fund transfer and bills payment transactions.</li>
 <li>We adhere to the latest standards for encryption.</li>
 </ul>
